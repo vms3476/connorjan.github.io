@@ -6,15 +6,13 @@ title: Home
 
 # Welcome!
 
-I am fifth year Electrical Engineering student currently 
-attending [Rochester Institute of Technology](http://rit.edu){: target="_blank" style="color: #f36e21;"}. I am currently
-working on my both my BS and MS degree planning to graduate with both this May! 
+I'm Victoria. As a recent graduate of [Rochester Institute of Technology (RIT)](http://rit.edu){: target="_blank" style="color: #f36e21;"}, I am looking forward to spending a year abroad in Switzerland for a Fulbright fellowship! I will be doing research with remote sensing scientists at the [University of Zürich (UZH)](http://www.uzh.ch/) to evaluate and improve LiDAR forest mapping techniques. 
 
-Last Semester I was on [co-op](http://www.rit.edu/co-op.html){:target="_blank"} working at 
-[Harris](https://www.harris.com/){:target="_blank" style="color: #E21D22;"}. And I can't believe I'm actually writing this,
-but I am now looking for a full time position for after this school year!
+This [blog](/blog) is where I will be documenting some observations, experiences, and photographs from my travels.  
 
-See more [about me here.](/about) Also check out [my projects](/projects) or [blog](/blog)!
+For more information, you can learn more [about me](/about) and my past [projects](/projects).
+
+Please note: This is not an official Department of State website or blog, and the views and information presented are my own and do not represent the Fulbright Program of the U.S. Department of State.
 
 ***
 

@@ -5,10 +5,10 @@
 relative_permalinks: false
 
 # Setup
-title:              Connor Goldberg
-tagline:            Electrical Engineer
+title:              Victoria Scholl
+tagline:            Fulbright Awardee to Switzerland
 description:        Contents
-url:                http://connorgoldberg.com
+url:                http://victoriascholl.me
 baseurl:            ""
 urlimg:             /static/
 markdown:           kramdown
@@ -33,8 +33,8 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # Owner/author information
 # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
 owner:
-  name:         Connor Goldberg
-  avatar:       prof.jpg
+  name:         Victoria Scholl
+  avatar:       hike.jpg
   email:        connor@connorgoldberg.com
   description:  Electrical Engineering
  

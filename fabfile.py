@@ -2,10 +2,10 @@ from fabric.api import *
 from fabric.contrib.files import exists
 from fabric.context_managers import cd,lcd
 
-env.user = 'connor'
-env.hosts = ['connorgoldberg.com']
+env.user = 'victoria'
+env.hosts = ['victoriascholl.me']
 
-domain = 'connorgoldberg.com'
+domain = 'victoriascholl.me'
 subdom = 'www'
 
 def push():

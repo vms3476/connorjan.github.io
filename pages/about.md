@@ -8,7 +8,7 @@ description: "About Connor Goldberg"
 comments: false
 ---
 
-<img height="200" style="float: right" src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo">
+<img height="400" style="float: left; padding-right: 1em;" src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo">
 
 I currently am a fifth year student at [RIT](http://rit.edu){: target="_blank" style="color: #f36e21;"}, and
 am in the [BS/MS program](http://www.rit.edu/kgcoe/program/bsms-electrical-engineering){: target="_blank"} in Electrical Engineering.
