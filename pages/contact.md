@@ -13,7 +13,7 @@ You can use any of the following ways to get in touch! Email probably is the mos
 
 | Method | Location |
 |:-:|:--|
-| <i class="fa fa-paper-plane"> | [connor@connorgoldberg.com](mailto:connor@connorgoldberg.com) |
+| <i class="fa fa-paper-plane"> | []() |
 | <i class="fa fa-linkedin"> | [LinkedIn]({{ site.owner.linkedin }}){: target="_blank"} |
 | <i class="fa fa-github-alt"> | [GitHub]({{site.owner.github}}){: target="_blank"} |
 | <i class="fa fa-twitter"> | [Twitter](https://twitter.com/{{site.owner.twitter}}){: target="_blank"} |
